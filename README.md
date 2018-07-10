@@ -7,7 +7,7 @@
 
 *Minor custom control binds in .i3/config I set:*
  
-$mod+i opens: internet (Firefox) \
-$mod+ctrl+d opens: discord-canary \
-ctrl+mod+s opens: spotify 
+**$mod+i** opens: **internet** *(Firefox)* \
+**$mod+ctrl+d** opens: **discord-canary** \
+**ctrl+$mod+s** opens: **spotify** 
  
